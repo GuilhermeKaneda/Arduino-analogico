@@ -22,5 +22,4 @@ void loop(){
     analogWrite(led, i);
     delay(time);
   }
-  Serial.println("Loop");
 }
